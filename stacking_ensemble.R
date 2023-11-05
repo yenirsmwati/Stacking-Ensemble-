@@ -6,7 +6,7 @@ library(caretEnsemble)
 
 
 #load dataset
-data <-read.csv("D:Covid Dataset.csv")
+data <-read.csv("D:\\Covid Dataset.csv")
 head(data)
 
 
